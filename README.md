@@ -1,9 +1,5 @@
 # VP-Tree: Nearest Neighbor Search in General Metric Spaces (wip)
-This repository has a bare-bones implementation of Vantage-Point Trees in C++, made for
-educational purposes.
-
-Features:
-- tbd
+this is for my larp
 
 ## About Vantage-Point Trees
 This implementation is based on the paper *Data Structures and Algorithms for Nearest Neighbor Search in General Metric Spaces*, it's a fairly old paper from '92 but it contains an interesting data structure (the VP-Tree), that is based on basic concepts of metric spaces and topology, which I found interesting.
