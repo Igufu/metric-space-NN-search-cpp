@@ -1,5 +1,5 @@
 # VP-Tree: Nearest Neighbor Search in General Metric Spaces
-This is for my *larp*
+This is for my *larp* also the python binding and testing code was made by claude
 
 ## About Vantage-Point Trees
 This implementation is based on the paper *Data Structures and Algorithms for Nearest Neighbor Search in General Metric Spaces*, it's a fairly old paper from '92 but it contains an interesting data structure (the VP-Tree), that is based on basic concepts of metric spaces and topology, which I found interesting.
